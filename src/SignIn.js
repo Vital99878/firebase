@@ -6,6 +6,7 @@ const SignIn = ( post ) => {
   return (
      <div>
        <h4>{post.title}</h4>
+       <h4>Git</h4>
        <p>{post.content}</p>
        <p>{post.stars}</p>
        <p>{post.comments}</p>
